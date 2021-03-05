@@ -1,0 +1,2 @@
+C:\Users\Trevor Tang\source\repos\Maze-Project\Maze-Project\Debug\Maze-Project.exe
+C:\Users\Trevor Tang\source\repos\Maze-Project\Maze-Project\Debug\Maze-Project.pdb
