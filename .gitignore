@@ -3,6 +3,8 @@
 
 *.VC.opendb 
 *.VC.db  
+*.nc
+*.DS_store
 
 # Compiled Object files
 *.slo
